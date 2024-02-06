@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "OMEGA"
-theme = "omega"
+baseURL = "https://andai.co.in"
+title = "Andai"
+theme = "&ai"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 [markup.goldmark.renderer]
