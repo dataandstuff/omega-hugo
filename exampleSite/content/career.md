@@ -48,18 +48,29 @@ career:
   enable : true
   title : "Job Opening"
   job_item:
-  - name : "Android Developer"
-    location : "Hamburg, Germany"
+  - name : "Product Manager"
+    location : "Mumbai, India"
     form_action : "#"
-    about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
+    about : "With experience in creating awesome tech products, you are able to set the standard and lead product management along the way. You are not only able to execute successful sprints yourself but communicate those concepts to the team and clients."
     experiences:
     - "3+ years Development	experience in a startup environment"
-    - "Strong knowledge of iOS, Android & Web Platforms"
+    - "Strong knowledge of Agile, Scrum & Web Platforms"
     - "Dynamic presentation and communication skills"
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
     
-  - name : "DevOps Engineer"
-    location : "Hamburg, Germany"
+  - name : "DevOps| MlOps Engineer"
+    location : "Mumbai, India"
+    form_action : "#"
+    about : "Create a ecosystem of DevOps, automae almost everything, not just CI/CD but all aspect of software development lifecycle"
+    experiences:
+    - "3+ years Development	experience in a startup environment"
+    - "Strong knowledge of DevOps, build tools, AWS, Azure, Git, Kubernetes etc.."
+    - "Dynamic troubleshooting and problem solving skill"
+    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
+
+
+  - name : "Engineering Manager"
+    location : "Mumbai, India"
     form_action : "#"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
     experiences:
@@ -69,19 +80,8 @@ career:
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
 
-  - name : "Operations Manager"
-    location : "Hamburg, Germany"
-    form_action : "#"
-    about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
-    experiences:
-    - "3+ years Development	experience in a startup environment"
-    - "Strong knowledge of iOS, Android & Web Platforms"
-    - "Dynamic presentation and communication skills"
-    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
-
-
-  - name : "International Compliance Officer"
-    location : "Hamburg, Germany"
+  - name : "AI Engineer"
+    location : "Mumbai, India"
     form_action : "#"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
     experiences:
