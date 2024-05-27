@@ -1,14 +1,14 @@
 ---
 title : "Career"
 layout: "career"
-description: "Do what you enjoy, invest for your future and reap the benefits of working with the worlds first advancement company that puts people first."
+description: "Do what you enjoy, if you want to work for the best AI implementation and you think you love learning and implementing new stuff, do join us."
 
 
 ######### about ###############
 about:
   enable : true
   title : "Who we're looking for"
-  content : "Bright, educated and hard working individuals who put professionalism first."
+  content : "Bright, educated and hard working individuals who put professionalism and fail fast approach first."
   video_thumb : "images/promo-video-thumbnail.jpg"
   video_id : "g3-VxLQO7do"
 
@@ -33,15 +33,15 @@ funfacts:
     
   - name : "Free Snacks"
     icon : "fa-bell-o"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "Love to grab a snacks with work, we understand brain needs food :D."
     
   - name : "Recreation"
     icon : "fa-microchip"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "Tight schedule, We can help you get the best of your potential"
     
-  - name : "5 Working Days"
+  - name : "0 Working Days"
     icon : "fa-plug"
-    content : "Tight schedule, tell us so we can tailor the schedule that fits your needs."
+    content : "tailor your own schedule and work as you love it!"
     
 ########### Career ############
 career:
@@ -61,7 +61,7 @@ career:
   - name : "DevOps| MlOps Engineer"
     location : "Mumbai, India"
     form_action : "#"
-    about : "Create a ecosystem of DevOps, automae almost everything, not just CI/CD but all aspect of software development lifecycle"
+    about : "Create a ecosystem of DevOps, automae almost everything, not just CI/CD but all aspect of software development lifecycle, especially AI stack"
     experiences:
     - "3+ years Development	experience in a startup environment"
     - "Strong knowledge of DevOps, build tools, AWS, Azure, Git, Kubernetes etc.."
