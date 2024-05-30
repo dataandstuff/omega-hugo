@@ -14,7 +14,7 @@ mission:
   enable : true
   title : "AI MARKETPLACE"
   section : "MISSION"
-  content : "Introducing the world’s first AI MArketplace. Get AI ready in minutes, A single platform to get all the AI Plugins; for all your use cases, wether you are an Enterprise, MSME or a young startup, We have got your back, Just let us know what you are and we will recommend you best AI Plugins for your business"
+  content : "Introducing the world’s first AI MArketplace. Get AI ready in minutes, A single platform to get all the AI Plugins; for all your use cases, whether you are an Enterprise, MSME or a young startup, We have got your back, Just let us know what you are and we will recommend you best AI Plugins for your business"
   video_thumb: "images/video-thumb.jpg"
   video_id: "ResipmZmpDU"
 
@@ -42,26 +42,26 @@ product:
   enable : true
   section : "Products"
   title : "Some Of Our Best Products"
-  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+  content : "See the innovation in action. As an AI Marketplace, the goal is to continuously innovate and develop the AI plugins to help business push forward. Below you can find the best AI Plugins available to help you do so."
   product_item:
-  - title : "Ecosystem"
+  - title : "Docu-AI"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
-    project_url : "#"
+    content : "DocuAI is all you need to get an AI seacrh engine for your documents (PDF, Doc, Excel, Word, CSV, MD, TXT etc..), we support all most all document types for smart AI search"
+    project_url : "https://multiplepdfpalm-groq.streamlit.app/"
     
-  - title : "Objects"
+  - title : "EMS-AI"
     image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Energy Management System is the most efficient and reliable AI plugin for all imporoving energy efficiency, The Plugin helps variety of usecases across industries such as : Manufacturing, Mining, Oil&Gas etc..."
     project_url : "#"
     
-  - title : "Publisher"
+  - title : "Assist-Ai"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Coder plugin helps you to get an AI assistant for specific job, you can get a full time AI assistant for pair programming, digital maketer, product management etc.."
     project_url : "#"
   
-  - title : "Ecosystem"
+  - title : "Personas"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Peronas are AI agent which is desgined to specialise in tasks, these agents are desined to work together in sync to deliver the desired results, like any use case."
     project_url : "#"
     
   - title : "Objects"
