@@ -26,7 +26,7 @@ vision:
   vision_item:
   - title : "All AI Plugins"
     image : "images/vision/vision-01.jpg"
-    content : "Get Curated lsit of all AI Models packaged as a plgins."<br>~Market Place"
+    content : "Get Curated lsit of all AI Models packaged as a plgins.<br>~Market Place"
     
   - title : "Recommendation System"
     image : "images/vision/vision-02.jpg"
