@@ -8,7 +8,7 @@ description: "Do what you enjoy, if you want to work for the best AI implementat
 about:
   enable : true
   title : "Who we're looking for"
-  content : "Bright, educated and hard working individuals who put professionalism and fail fast approach first."
+  content : "Bright, Curious and Smart Working individuals who put Zeal to learn and fail fast approach."
   video_thumb : "images/promo-video-thumbnail.jpg"
   video_id : "g3-VxLQO7do"
 

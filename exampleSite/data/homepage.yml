@@ -12,9 +12,9 @@ banner:
 #################### Mission #####################
 mission:
   enable : true
-  title : "Propel Advancement"
+  title : "AI MARKETPLACE"
   section : "MISSION"
-  content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
+  content : "Introducing the world’s first AI MArketplace. Get AI ready in minutes, A single platform to get all the AI Plugins; for all your use cases, wether you are an Enterprise, MSME or a young startup, We have got your back, Just let us know what you are and we will recommend you best AI Plugins for your business"
   video_thumb: "images/video-thumb.jpg"
   video_id: "ResipmZmpDU"
 
@@ -24,17 +24,17 @@ vision:
   enable : true
   section : "VISION"
   vision_item:
-  - title : "People First"
+  - title : "All AI Plugins"
     image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "Get Curated lsit of all AI Models packaged as a plgins."<br>~Market Place"
     
-  - title : "Employee Culture"
+  - title : "Recommendation System"
     image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "You have got the idea of how to implement AI in your system but stuck where to start, get the most suitable AI Plugins solely for your usecase from our recommender system. <br>~Recommendation System"
     
-  - title : "The Omega Way"
+  - title : "Secure and Safe"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "Data is the most essential ingredient of every business and it shall never be compramised not at the cost of AI enhancement, get a customised in house AI implementation on your Cloud/On Premise stack; Get AI ready on your own terms. <br>~Edge AI"
 
 
 #################### product ####################
@@ -87,6 +87,6 @@ contact:
 ################### call to action #################
 call_to_action:
   enable : true
-  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
+  title : "Join the &Ai family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
   button_link : "career"
