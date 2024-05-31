@@ -51,7 +51,7 @@ product:
     project_url : "https://multiplepdfpalm-groq.streamlit.app/"
     
   - title : "EMS-AI"
-    image : "images/product/product-02.jpg"
+    image : "images/product/product-01.jpg"
     content : "Energy Management System is the most efficient and reliable AI plugin for all imporoving energy efficiency, The Plugin helps variety of usecases across industries such as : Manufacturing, Mining, Oil&Gas etc..."
     project_url : "#"
     
