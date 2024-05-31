@@ -61,7 +61,7 @@ product:
     project_url : "#"
   
   - title : "Personas"
-    image : "images/product/product-03.jpg"
+    image : "images/product/persona.jpg"
     content : "Peronas are AI agent which is desgined to specialise in tasks, these agents are desined to work together in sync to deliver the desired results, like any use case."
     project_url : "#"
     
