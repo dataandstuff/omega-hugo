@@ -46,7 +46,7 @@ product:
   content : "See the innovation in action. As an AI Marketplace, the goal is to continuously innovate and develop the AI plugins to help business push forward. Below you can find the best AI Plugins available to help you do so."
   product_item:
   - title : "Docu-AI"
-    image : "images/product/product-03.jpg"
+    image : "images/product/product-03-N.jpg"
     content : "DocuAI is all you need to get an AI seacrh engine for your documents (PDF, Doc, Excel, Word, CSV, MD, TXT etc..), we support all most all document types for smart AI search"
     project_url : "https://multiplepdfpalm-groq.streamlit.app/"
     
