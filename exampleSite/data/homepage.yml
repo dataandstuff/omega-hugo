@@ -44,6 +44,10 @@ product:
   section : "Products"
   title : "Some Of Our Best Products"
   content : "See the innovation in action. As an AI Marketplace, the goal is to continuously innovate and develop the AI plugins to help business push forward. Below you can find the best AI Plugins available to help you do so."
+  button:
+    enable : true
+    label : "Visit Marketplace"
+    link : "#products"
   product_item:
   - title : "Docu-AI"
     image : "images/product/product-03.jpg"
@@ -64,11 +68,6 @@ product:
     image : "images/product/persona.jpg"
     content : "Peronas are AI agent which is desgined to specialise in tasks, these agents are desined to work together in sync to deliver the desired results, like any use case."
     project_url : "#"
-  
-  button:
-    enable : true
-    label : "Visit Marketplace"
-    link : "#products"
   
 
 
