@@ -56,7 +56,7 @@ product:
     project_url : "#"
     
   - title : "Assist-Ai"
-    image : "images/product/product-03.jpg"
+    image : "images/product/product-02.jpg"
     content : "Coder plugin helps you to get an AI assistant for specific job, you can get a full time AI assistant for pair programming, digital maketer, product management etc.."
     project_url : "#"
   
