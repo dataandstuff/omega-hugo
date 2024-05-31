@@ -16,7 +16,8 @@ mission:
   section : "MISSION"
   content : "Introducing the world’s first AI MArketplace. Get AI ready in minutes, A single platform to get all the AI Plugins; for all your use cases, whether you are an Enterprise, MSME or a young startup, We have got your back, Just let us know what you are and we will recommend you best AI Plugins for your business"
   video_thumb: "images/video-thumb.jpg"
-  video_id: "ResipmZmpDU"
+  #video_id: "ResipmZmpDU"
+  video_id: "https://www.youtube.com/watch?v=8rhJuZfVcOI"
 
 
 #################### Vission #####################
