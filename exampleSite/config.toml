@@ -36,7 +36,7 @@ weight = 4
 [[menu.main]]
 name = "Contact"
 pre = "#"
-url = "https://1lmu6hu79vs.typeform.com/to/p1d5O56g"
+url = "contact"
 weight = 5
 
 
