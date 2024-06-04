@@ -90,4 +90,14 @@ career:
     - "Dynamic presentation and communication skills"
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
+  - name : "HR Lead"
+    location : "Mumbai, India"
+    form_action : "https://formspree.io/f/moqgokql"
+    about : "With a strong experience to Lead spearheads the organization's human resources strategy, overseeing all aspects of employee recruitment, development, and relations. As lead ensure a positive work environment, manage talent acquisition, and foster a culture of high performance."
+    experiences:
+    - "5+ years	experience (Startup Preferred)"
+    - "Strong knowledge of Agile and Scrum"
+    - "Dynamic presentation and communication skills"
+    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
+
 ---
