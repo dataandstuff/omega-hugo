@@ -50,7 +50,7 @@ career:
   job_item:
   - name : "Product Manager"
     location : "Mumbai, India"
-    form_action : "#"
+    form_action : "https://formspree.io/f/moqgokql"
     about : "With experience in creating awesome tech products, you are able to set the standard and lead product management along the way. You are not only able to execute successful sprints yourself but communicate those concepts to the team and clients."
     experiences:
     - "3+ years Development	experience in a startup environment"
@@ -60,7 +60,7 @@ career:
     
   - name : "DevOps| MlOps Engineer"
     location : "Mumbai, India"
-    form_action : "#"
+    form_action : "https://formspree.io/f/moqgokql"
     about : "Create a ecosystem of DevOps, automae almost everything, not just CI/CD but all aspect of software development lifecycle, especially AI stack"
     experiences:
     - "3+ years Development	experience in a startup environment"
@@ -71,7 +71,7 @@ career:
 
   - name : "Engineering Manager"
     location : "Mumbai, India"
-    form_action : "#"
+    form_action : "https://formspree.io/f/moqgokql"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
     experiences:
     - "3+ years Development	experience in a startup environment"
@@ -82,7 +82,7 @@ career:
 
   - name : "AI Engineer"
     location : "Mumbai, India"
-    form_action : "#"
+    form_action : "https://formspree.io/f/moqgokql"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
     experiences:
     - "3+ years Development	experience in a startup environment"
