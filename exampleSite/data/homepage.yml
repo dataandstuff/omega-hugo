@@ -8,9 +8,12 @@ banner:
     enable : true
     label : "Get in touch :)"
     link : "https://1lmu6hu79vs.typeform.com/to/p1d5O56g"
+  button:
+    enable : true
     label : "Lets Meet :D"
     link : "https://cal.com/andai-ai-vha7bi"
 
+    
 #################### Mission #####################
 mission:
   enable : true
