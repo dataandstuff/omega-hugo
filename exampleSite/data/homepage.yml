@@ -6,8 +6,10 @@ banner:
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
-    label : "Lets Meet :)"
+    label : "Get in touch :)"
     link : "https://1lmu6hu79vs.typeform.com/to/p1d5O56g"
+    label : "Lets Meet :D"
+    link : "https://cal.com/andai-ai-vha7bi"
 
 #################### Mission #####################
 mission:
