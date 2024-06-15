@@ -39,6 +39,12 @@ pre = "#"
 url = "contact"
 weight = 5
 
+[[menu.main]]
+name = "Blog"
+pre = "#"
+url = "blog.andai.co.in"
+weight = 5
+
 
 #################### default parameters ################################
 [params]
