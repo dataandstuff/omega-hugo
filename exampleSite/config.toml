@@ -43,7 +43,7 @@ weight = 5
 name = "Blog"
 pre = "#"
 url = "blog.andai.co.in"
-weight = 5
+weight = 6
 
 
 #################### default parameters ################################
