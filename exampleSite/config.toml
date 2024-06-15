@@ -41,8 +41,7 @@ weight = 5
 
 [[menu.main]]
 name = "Blog"
-pre = "#"
-url = "blog.andai.co.in"
+url = "https://blog.andai.co.in"
 weight = 6
 
 
