@@ -79,8 +79,28 @@ career:
     - "Dynamic presentation and communication skills"
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
+ - name : "Content Specialist Intern"
+    location : "Mumbai/Remote, India"
+    form_action : "https://formspree.io/f/moqgokql"
+    about : "With experience in creating awesome content for tech products, you are able to craft the content and have amazing desire to write . You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
+    experiences:
+    - "Writing	experience in a startup environment"
+    - "Strong knowledge of Ai tech world, Android & Web Platforms"
+    - "Dynamic presentation and communication skills"
+    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
 
-  - name : "AI Engineer"
+
+  - name : "AI Engineer Intern"
+    location : "Mumbai, India"
+    form_action : "https://formspree.io/f/moqgokql"
+    about : "Zeal to learn and understand core concept of AI, apply AI model to actions"
+    experiences:
+    - "Development	experience in a startup environment"
+    - "Strong knowledge of iOS, Android & Web Platforms"
+    - "Dynamic presentation and communication skills"
+    - "Self-motivation: You manage your own milestones, deadlines, and priorities"
+
+- name : "AI Engineer"
     location : "Mumbai, India"
     form_action : "https://formspree.io/f/moqgokql"
     about : "With experience in creating visual directions for tech products, you are able to set the standard and lead designers along the way. You are not only able to execute beautiful user experiences yourself but communicate those concepts to the team and clients."
@@ -89,6 +109,7 @@ career:
     - "Strong knowledge of iOS, Android & Web Platforms"
     - "Dynamic presentation and communication skills"
     - "Self-motivation: You manage your own milestones, deadlines, and priorities"
+
 
   - name : "HR Lead"
     location : "Mumbai, India"
